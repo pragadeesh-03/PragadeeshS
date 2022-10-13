@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PraGa069
+- 👋 Hi, I’m Pragadeesh S
 - 👀 I’m interested in Full Stack Web Development, Android Application Development and Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Web Development
